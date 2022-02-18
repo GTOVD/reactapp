@@ -6,39 +6,42 @@
                 "title": "Learn Wedding Photography",
                 "description": "ABC",
                 "price": 125,
-                "coverImg": "logo192.png",
+                "coverImg": "pic1.jpg",
                 "stats": {
                     "rating": 5.0,
                     "reviewCount": 30
                 },
                 "location": "USA",
-                "openSpots": 27
+                "openSpots": 0,
+                "online": "Online"
             },
             {
                 "id": 2,
                 "title": "Wedding Photography",
                 "description": "EFD",
                 "price": 120,
-                "coverImg": "logo192.png",
+                "coverImg": "pic2.jpg",
                 "stats": {
                     "rating": 4.0,
                     "reviewCount": 50
                 },
                 "location": "USA",
-                "openSpots": 27
+                "openSpots": 27,
+                "online": "Offline"
             },
             {
                 "id": 3,
                 "title": "Learn Wedding Photography",
                 "description": "FTE",
                 "price": 125,
-                "coverImg": "logo192.png",
+                "coverImg": "pic3.jpg",
                 "stats": {
                     "rating": 5.0,
                     "reviewCount": 30
                 },
                 "location": "USA",
-                "openSpots": 27
+                "openSpots": 27,
+                "online": "Online"
             }
         ]
 }    
